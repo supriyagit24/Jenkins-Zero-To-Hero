@@ -63,7 +63,7 @@ A: Again, there are multiple ways to achieve this,
 
 Q: What is latest version of Jenkins or which version of Jenkins are you using ?
 
-A: This is a very simple question interviewers ask to understand if you are actually using Jenkins day-to-day, so always be prepared for this.
+A: This is a very simple question interviewers ask to understand if you are actually using Jenkins day-to-day, so always be prepared for this.(2.471)
 
 Q: What is shared modules in Jenkins ?
 
